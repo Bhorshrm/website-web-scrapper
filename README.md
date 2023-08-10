@@ -4,9 +4,8 @@
 [![Test Coverage](https://codeclimate.com/github/website-scraper/website-scraper-puppeteer/badges/coverage.svg)](https://codeclimate.com/github/website-scraper/website-scraper-puppeteer/coverage)
 
 # website-scraper-puppeteer
-Plugin for [website-scraper](https://github.com/website-scraper/node-website-scraper) which returns html for dynamic websites using [puppeteer](https://github.com/puppeteer/puppeteer).
+Plugin for [website-scraper](https://github.com/website-scraper/node-website-scraper) which returns HTML for dynamic websites using [puppeteer](https://github.com/puppeteer/puppeteer).
 
-This module is an Open Source Software maintained by one developer in free time. If you want to thank the author of this module you can use [GitHub Sponsors](https://github.com/sponsors/s0ph1e) or [Patreon](https://www.patreon.com/s0ph1e).
 
 ## Requirements
 * nodejs version >= 14.14
